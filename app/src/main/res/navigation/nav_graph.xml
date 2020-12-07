@@ -8,6 +8,6 @@
     <fragment
         android:id="@+id/FirstFragment"
         android:name="tech.ru1t3rl.madlevel6example.TriviaFragment"
-        android:label="@string/first_fragment_label"
+        android:label="@string/trivia_fragment_label"
         tools:layout="@layout/fragment_trivia" />
 </navigation>
